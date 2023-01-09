@@ -6,5 +6,7 @@
  <li><strong>Lógica de Programação</strong></li>
  <li><strong>Scrum</strong></li>
  <li><strong>Git</strong></li>
- <li><strong>Github</strong></li>
+ <li><strong>Bootstrap</strong></li>
+ <li><strong>Javascript</strong></li>
+ <li><strong>React.js</strong></li>
 </ul>
